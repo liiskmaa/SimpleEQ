@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3F58424E-D7F1-40E0-9E4A-C2296827AB67"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C295254-3146-4950-B1F4-6535E22D4820"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../JUCE/modules/juce_audio_processors/processors/juce_AudioProcessor.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "440"
+            endingLineNumber = "440"
+            landmarkName = "AudioProcessor::validateParameter(param)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7C295254-3146-4950-B1F4-6535E22D4820 - 7ee5ba633de85a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::AudioProcessor::validateParameter(juce::AudioProcessorParameter*)"
+                  moduleName = "AudioPluginHost"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaanekliiskmaa/JUCE/modules/juce_audio_processors/processors/juce_AudioProcessor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "442"
+                  endingLineNumber = "442"
+                  offsetFromSymbolStart = "46">
+               </Location>
+               <Location
+                  uuid = "7C295254-3146-4950-B1F4-6535E22D4820 - a143228b73d915e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::AudioProcessor::validateParameter(juce::AudioProcessorParameter*)"
+                  moduleName = "SimpleEQ"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaanekliiskmaa/JUCE/modules/juce_audio_processors/processors/juce_AudioProcessor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "440"
+                  endingLineNumber = "440"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
